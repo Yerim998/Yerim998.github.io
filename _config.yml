@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "강예림"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Digital is **amazing**!!"
+  location         : "Jeju, South Korea"
+  email            : "juin3062@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
